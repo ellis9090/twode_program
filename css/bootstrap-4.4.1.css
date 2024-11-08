@@ -17,7 +17,7 @@
   --main: #a4d6c7;
   --dark: #092827;
   --black: #212529;
-  --dir-note: #CCFF66; 
+  --dir-note: #CDDC39; 
   --bios-n-resources: #91aabd; 
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
@@ -2648,35 +2648,35 @@ fieldset:disabled a.btn {
 
 .btn-secondary {
   color: #000000;
-  background-color: #CCFF66;
-  border-color: #CCFF66;
+  background-color: #CDDC39;
+  border-color: #CDDC39;
 	width:300px;
 }
 
 .btn-secondary:hover {
   color: #000000;
-  background-color: #CCFF66;
-  border-color: #CCFF66;
+  background-color: #CDDC39;
+  border-color: #CDDC39;
 }
 
 .btn-secondary:focus, .btn-secondary.focus {
   color: #000000;
-  background-color: #CCFF66;
-  border-color: #CCFF66;
+  background-color: #CDDC39;
+  border-color: #CDDC39;
   box-shadow: 0 0 0 0.2rem rgba(130, 138, 145, 0.5);
 }
 
 .btn-secondary.disabled, .btn-secondary:disabled {
   color: #000000;
-  background-color: #CCFF66;
-  border-color: #CCFF66;
+  background-color: #CDDC39;
+  border-color: #CDDC39;
 }
 
 .btn-secondary:not(:disabled):not(.disabled):active, .btn-secondary:not(:disabled):not(.disabled).active,
 .show > .btn-secondary.dropdown-toggle {
   color: #000000;
-  background-color: #CCFF66;
-  border-color: #CCFF66;
+  background-color: #CDDC39;
+  border-color: #CDDC39;
 }
 
 .btn-secondary:not(:disabled):not(.disabled):active:focus, .btn-secondary:not(:disabled):not(.disabled).active:focus,
@@ -5248,7 +5248,7 @@ a.badge-info:focus, a.badge-info.focus {
 
 a.badge-warning:hover, a.badge-warning:focus {
   color: #212529;
-  background-color: #d39e00;
+  background-color: #1E88E5;
 }
 
 a.badge-warning:focus, a.badge-warning.focus {
@@ -6800,7 +6800,7 @@ button.bg-info:focus {
 a.bg-warning:hover, a.bg-warning:focus,
 button.bg-warning:hover,
 button.bg-warning:focus {
-  background-color: #d39e00 !important;
+  background-color: #1E88E5 !important;
 }
 
 .bg-danger {
