@@ -24,8 +24,8 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: -apple-system, "Optima";
-  --font-family-monospace: "DejaVu Sans Mono";
+  --font-family-sans-serif: -apple-system, "Times New Roman";
+  --font-family-monospace: "Courier New";
 }
 
 *,
@@ -47,7 +47,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: -apple-system, "Optima";
+  font-family: -apple-system, "Times New Roman";
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -218,7 +218,7 @@ pre,
 code,
 kbd,
 samp {
-  font-family: "DejaVu Sans Mono", monospace;
+  font-family: "Courier New", monospace;
   font-size: 1em;
 }
 
@@ -6192,7 +6192,7 @@ a.close.disabled {
   z-index: 1070;
   display: block;
   margin: 0;
-  font-family: -apple-system, "Optima";
+  font-family: -apple-system, "Times New Roman";
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -6305,7 +6305,7 @@ a.close.disabled {
   z-index: 1060;
   display: block;
   max-width: 276px;
-  font-family: -apple-system, "Optima";
+  font-family: -apple-system, "Times New Roman";
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -9974,7 +9974,7 @@ button.bg-dark:focus {
 }
 
 .text-monospace {
-  font-family: "DejaVu Sans Mono", monospace !important;
+  font-family: "Courier New", monospace !important;
 }
 
 .text-justify {
